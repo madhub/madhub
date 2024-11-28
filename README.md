@@ -2,14 +2,28 @@
 
 Welcome to my page! 
 
-I'm Madhu, Professional software developer,Architect from Bangalore  🇮🇳. 
+I'm Madhu, a software developer and architect based in Bangalore, India, with a passion for innovative solutions. 🇮🇳. 
 
-- 🔭 I’m currently working on developing Medical Imaging store on cloud using AWS services( EKS and Serverless technologies). 
-- 🌱 I’m currently exploring 
-	- MQTT technology to provide configuration updates & simple request/response from Cloud to a services deployed in private on-premises systems. 
-	- Centralized OAuth2 and OpenId Connect Auth-Proxy using [YARP reverse proxy](https://microsoft.github.io/reverse-proxy/) for EKS  services via Ingress.
-	- [Spiffe](https://spiffe.io/) for authentication and authorization of service invocation with-in EKS cluster.
-- 💬 Ask me about C#, .NET Core,ASP.NET Core,Java,SpringBoot,Containers, Docker,Kubernetes, AWS, Medical Imaging Standards( DICOM, FHIR, IHE).
+**Current Focus:**  
+
+Developing a cloud-based medical imaging store leveraging Amazon Web Services (AWS) EKS and serverless technologies.
+
+**Technical Exploration:**
+- Utilizing MQTT technology for efficient configuration updates and streamlined request/response communication between cloud services and on-premises systems.
+- Implementing a centralized OAuth2 and OpenID Connect authorization proxy using YARP reverse proxy for EKS services via Ingress.
+- Exploring Spiffe for secure service-to-service authentication and authorization within the EKS cluster.
+
+**Areas of Expertise:**
+- Programming languages: C, C++, C#, Java,Go,Python
+- Frameworks: .NET Core, ASP.NET Core, Spring Boot
+- Containerization: Docker
+- Orchestration: Kubernetes, Nomad
+- Cloud Platform: AWS
+- Medical Imaging Standards: DICOM, HL7,FHIR, IHE
+
+**Let's Connect!**
+
+Feel free to reach out and discuss any of these technologies, or others within my domain. I'm always happy to engage in technical conversations.
 
 <div >
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
